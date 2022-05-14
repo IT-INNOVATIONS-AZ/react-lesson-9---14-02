@@ -1,0 +1,13 @@
+.btn-component {
+	padding: 20px 50px;
+	border: 0;
+	border-radius: 3px;
+}
+.btn-black {
+	background-color: black;
+	color: white;
+}
+.btn-pink {
+	background-color: pink;
+	color: black;
+}
